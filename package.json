@@ -21,11 +21,11 @@
     "try": "node ./bin/momy.js --config test/momyfile.json"
   },
   "dependencies": {
-    "change-case": "^3.0.0",
-    "moment": "^2.15.2",
-    "mongodb": "^2.2.11",
-    "mysql": "^2.12.0",
-    "sqlstring": "^2.2.0"
+    "change-case": "^3.0.1",
+    "moment": "^2.20.1",
+    "mongodb": "^3.0.1",
+    "mysql": "^2.15.0",
+    "sqlstring": "^2.3.0"
   },
   "devDependencies": {
     "co": "^4.6.0",
